@@ -101,7 +101,7 @@ input, select, textarea {
 	}
 
 	body {
-		hsla(89, 43%, 51%, 0.3);
+		#80ced6;
 }
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
