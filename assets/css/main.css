@@ -101,8 +101,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #748f54;
-	}
+		hsla(89, 43%, 51%, 0.3);
+}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
