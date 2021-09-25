@@ -101,8 +101,8 @@ input, select, textarea {
 	}
 
 	body {
-		#80ced6;
-}
+		background-color: lightblue;
+	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
@@ -146,7 +146,7 @@ input, select, textarea {
 		}
 
 	body {
-		color: #80ced6;
+		color: #762B42;
 	}
 
 	body, input, select, textarea {
